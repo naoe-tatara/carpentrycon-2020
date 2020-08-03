@@ -142,7 +142,7 @@ class: center, middle, inverse
 
 # Role presentations
 
-[NT will moderate this session, 20 minutes]
+<!--NT will moderate this session, 20 minutes　-->
 
 <!-- - They should: say what the role is, why the role is important, say what -->
 <!--   you thought, what went well, what should be improved.  Please also check -->
