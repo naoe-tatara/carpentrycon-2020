@@ -8,11 +8,16 @@ class: center, middle, inverse
 
 ## Introduction to the session
 
-[NT drafts this, 5-10 minutes]
-
-- brief intro to the section
-- how hackmd works - use hackmd for continuous questions
-- contents
+- Carpentries Code of Conduct
+- House keeping 
+ - Questions about the contents -> HackMD
+ - Questions about technical stuff -> Zoom Chat
+- Contents
+ - What is CodeRefinery?
+ - A vision of reaching many people at once (with BR session)
+ - How we did it
+ - Role presentation
+ - Open discussion
 
 ---
 
@@ -108,17 +113,19 @@ class: center, middle, inverse
 
 ## Collaborative notes
 
-[NT drafts this, 2 minutes]
+- Use of HackMD for collection of Q&A regarding lesson contents
 
-- we get even more questions now
+  - + It keeps record of Q&A so that it is possible to review afterwards.
+  - + Main flow is not disrupted.
+  - + Stable most of the time with 50-100 users (depending on the edit history length).
+
+- For short communications for more practical questions, we used Zoom chat function.
 
 ---
 
 ## Distribution of roles
 
-[NT drafts this, 2 minutes]
-
-- ...
+(will use an illustrative figure here)
 
 ---
 
