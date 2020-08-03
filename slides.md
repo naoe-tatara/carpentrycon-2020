@@ -198,14 +198,14 @@ class: center, middle, inverse
 - Zoom-participant controll
   - Assigning co-host priviledge to instructors and expert helpers.
   - Permission of participants' entrance into the meeting room by referring to the registration list.
-  <ul style "list-style-type:' \0021 \0020 \0020';">  
+  <ul style="list-style-type:' \0021 \0020 \0020'">  
     <li> Asked the participants to join in the meeting room earlier than the session starts. </li>
     <li> Make sure the participants to join with their names shown in the Zoom profile (in some cases, a weird user name is presented) </li>
     <li> Asked the participants to rename so that it will be (team number / team number, H / CR)[first, last name]. When there are more than 10 teams, it is better to ask them to set '0' before 1-9. </li>
   </ul>  
 - Communication with participants (mainly via Zoom chat for practical things)
 - Assigning participants to breakout rooms
-<ul style "list-style-type:' \0021 \0020 \0020';">  
+<ul style="list-style-type:' \0021 \0020 \0020'">  
   <li> If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room </li>
   <li> Try to make the combination of the teams as consistent as possible throughout the workshop </li>
   <li> Make sure to stop video before returning to the main room </li>
