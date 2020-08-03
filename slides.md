@@ -115,9 +115,9 @@ class: center, middle, inverse
 
 - Use of HackMD for collection of Q&A regarding lesson contents
 
-  - + It keeps record of Q&A so that it is possible to review afterwards.
-  - + Main flow is not disrupted.
-  - + Stable most of the time with 50-100 users (depending on the edit history length).
+  - '+' It keeps record of Q&A so that it is possible to review afterwards.
+  - '+' Main flow is not disrupted.
+  - '+' Stable most of the time with 50-100 users (depending on the edit history length).
 
 - For short communications for more practical questions, we used Zoom chat function.
 
