@@ -115,7 +115,7 @@ class: center, middle, inverse
 
 - Use of HackMD for collection of Q&A regarding lesson contents
 <ul style="list-style-type:' \002B \0020 \0020'">
-  <li> - It keeps record of Q&A so that it is possible to review afterwards.</li>
+  <li> It keeps record of Q&A so that it is possible to review afterwards.</li>
   <li> Main flow is not disrupted.</li>
   <li> Stable most of the time with 50-100 users (depending on the edit history length).</li>
 </ul>
