@@ -195,6 +195,7 @@ class: center, middle, inverse
 
 ## Host
 
+Host is dedicated for Zoom room management.
 - Zoom-participant controll
   - Assigning co-host priviledge to instructors and expert helpers.
   - Permission of participants' entrance into the meeting room by referring to the registration list.
