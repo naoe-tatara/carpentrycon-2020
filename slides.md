@@ -126,7 +126,7 @@ class: center, middle, inverse
 
 ## Distribution of roles
 
-(will use an illustrative figure here)
+![table showing roles for CR team members](role_distribution.png "role distribution table")
 
 ---
 
